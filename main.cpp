@@ -2,6 +2,11 @@
 
 using namespace std;
 
+struct testDTO{
+    int id;
+    char[156] name; 
+}
+
 void main(){
     int a, b;
     cin >> a >> b;
