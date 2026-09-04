@@ -17,5 +17,7 @@ void main(){
     cin >> a >> b;
     cout << c;
     cout << "this is test version"
+
+    cout << a * b;
     return ;
 }
