@@ -7,6 +7,11 @@ struct testDTO{
     char[156] name; 
 }
 
+struct testDTO1{
+    int id;
+    char[156] bookname;
+}
+
 void main(){
     int a, b;
     cin >> a >> b;
